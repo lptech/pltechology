@@ -1,0 +1,37 @@
+
+p {color:blue;
+		font-family:arial;
+		line-height:130%;
+		text-indent:25px;}
+
+ul {font-weight:bold;}
+
+ol {font-style:italic;}
+
+body {background-image:url('backtext.jpeg');
+		color:black;}
+		
+h1 {color:black;}	
+h2 {color:black; text-align:left;}	
+h3 {text-align:center;}
+h2 {color:black; text-align:left;}
+
+a:link{color:red;
+		text-decoration:none;}
+a:visited{color:white;}
+
+a:hover{background-color:blue;
+		color:white;
+		text-decoration:underline;
+		font-weight:bold;}
+		
+a:active{background-color:orange;}
+
+div {border:2px solid red;
+	position:absolute;
+	width:100px;
+	top:70px;
+	left:35px;}
+	
+img {max-height:200px;
+	max-width:200px;}
